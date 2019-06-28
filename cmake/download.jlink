@@ -1,0 +1,7 @@
+si 1
+speed 4000
+device MK60DN512xxx10
+con
+loadfile k60_flash.hex
+q
+
